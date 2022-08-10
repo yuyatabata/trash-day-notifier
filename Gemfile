@@ -6,8 +6,6 @@ ruby "3.1.2"
 #LINE API用
 gem 'line-bot-api'
 
-gem 'pry-rails'
-
 #access tokenなどを管理する用
 gem 'dotenv-rails' 
 
